@@ -1,0 +1,5 @@
+1)Create stack using cfn-verssion-1 
+2)Update Stack (Install mysql database , connect to instance and validate mysql database instanc installed or not)
+3)Add cfn hup into the script and validate mysql database installed 
+4)CREATE DATABASE cloudmasters;
+5)
